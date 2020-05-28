@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : Diode.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v16\Lab3\lib\Diode.lib
+    Section : PCB Library - Diode.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 177_N On Line 218
+            Warning - 1 : Skipping Token 180_N On Line 245
+            Warning - 1 : Skipping Token attachedSymbol On Line 299
+            Warning - 1 : Skipping Token attachedSymbol On Line 319
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Diode.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token viaStyleDef On Line 63
+            Warning - 1 : Skipping Token multiLayer On Line 147
+            Warning - 1 : Skipping Token layerContents On Line 151
+            Warning - 1 : Skipping Token multiLayer On Line 179
+            Warning - 1 : Skipping Token layerContents On Line 183
+            Warning - 1 : Skipping Token multiLayer On Line 205
+            Warning - 1 : Skipping Token layerContents On Line 209
+            Warning - 1 : Skipping Token defaultPinDes On Line 226
+            Warning - 1 : Skipping Token defaultPinDes On Line 234
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 261
+        EndSection
+
+        Section : Generating SCH Library - Diode.SchLib
+        EndSection
+    EndSection
+EndSection

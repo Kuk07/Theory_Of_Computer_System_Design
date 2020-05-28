@@ -1,0 +1,53 @@
+PCAD Importer Log
+Project : Transistor.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v16\Lab3\lib\Transistor.lib
+    Section : PCB Library - Transistor.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 192_N On Line 206
+            Warning - 1 : Skipping Token 235_N On Line 245
+            Warning - 1 : Skipping Token TRANSISTOR On Line 284
+            Warning - 1 : Skipping Token attachedSymbol On Line 357
+            Warning - 1 : Skipping Token attachedSymbol On Line 379
+            Warning - 1 : Skipping Token attachedSymbol On Line 401
+            Warning - 1 : Skipping Token attachedSymbol On Line 423
+            Warning - 1 : Skipping Token attachedSymbol On Line 446
+        EndSection
+
+        Section : Import Messages
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+        EndSection
+    EndSection
+
+    Section : SCH Library - Transistor.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token viaStyleDef On Line 53
+            Warning - 1 : Skipping Token multiLayer On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token multiLayer On Line 144
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token multiLayer On Line 166
+            Warning - 1 : Skipping Token layerContents On Line 171
+            Warning - 1 : Skipping Token multiLayer On Line 190
+            Warning - 1 : Skipping Token layerContents On Line 195
+            Warning - 1 : Skipping Token defaultPinDes On Line 214
+            Warning - 1 : Skipping Token defaultPinDes On Line 222
+            Warning - 1 : Skipping Token defaultPinDes On Line 230
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 261
+            Warning - 1 : Skipping Token defaultPinDes On Line 269
+            Warning - 1 : Skipping Token defaultPinDes On Line 292
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 308
+        EndSection
+
+        Section : Generating SCH Library - Transistor.SchLib
+        EndSection
+    EndSection
+EndSection
